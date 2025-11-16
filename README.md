@@ -1,0 +1,1 @@
+- Designed and developed Virgin_Train_DB, a relational database managing trains, stations, tickets, and customers. Created tables with primary/foreign keys, loaded data, and used SQL queries with joins and aggregates to answer five business questions on routes, pricing, and customer insights.
